@@ -28,14 +28,7 @@ In this example, if you were to follow the strategy guide, you would get a total
 
 What would your total score be if everything goes exactly according to your strategy guide?
 
-
-for sample 2, the final result is = 29
-C X: 1 + 6 = 7
-C X: 1 + 6 = 7
-C X: 1 + 6 = 7
-A Z: 3 + 0 = 3
-B Y: 2 + 3 = 5
-
+The first half of this puzzle is complete! It provides one gold star: *
 --- Part Two ---
 
 The Elf finishes helping with the tent and sneaks back over to you. "Anyway, the second column says how the round needs to end: X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win. Good luck!"
